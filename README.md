@@ -41,22 +41,24 @@ Self-hosted applications, local-first databases, and old school digital manageme
 
 ### 🐧 _Linux user for life_
 
-All things Fedora. All things RedHat. Long live Linux!
+All things Fedora. All things RedHat. All things Unix. 
+
+Long live Linux.
 
 ## Stuff I Use
 <div id="Uses" style="display: flex; flex-direction: row; gap: 12px;>
   
   <!-- Systems -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="40" height="40" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40" />
   
   <!-- Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscodium/vscodium-plain.svg" title="VSCodium" alt="VSCodium" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscodium/vscodium-original.svg" title="VSCodium" alt="VSCodium" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" />
 
 </div>
