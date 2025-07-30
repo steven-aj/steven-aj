@@ -1,18 +1,23 @@
-![Coding Penguin](images/giphy.gif)
+<div align="center">
+  <img src="images/giphy.gif" title="Giphy: Coding Penguin" width="33%" height="auto" alt="Giphy: Coding Penguin" />
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572b6?logo=css&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=dotnet&logoColor=white" title="C-Sharp" alt="C-Sharp" />
+  <img src="https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white" title="PHP" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" title="HTML5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-1572b6?logo=css&logoColor=white" title="CSS3" alt="CSS3" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Ready-007acc" title="Full-Stack Ready" alt="Full-Stack Ready" />
+  <img src="https://img.shields.io/badge/Node.js-Developer-3c873a?logo=node.js&logoColor=white" title="Node.js Developer" alt="Node.js Developer" />
+  <img src="https://img.shields.io/badge/Proud-Husband-6f42c1" title="Proud Husband" alt="Proud Husband" />
+</div>
 
 ## About Me
-
-
-![Full-Stack Ready](https://img.shields.io/badge/Full--Stack-Ready-007acc)
-![Node.js Developer](https://img.shields.io/badge/Node.js-Developer-3c873a?logo=node.js&logoColor=white)
-![Proud Husband](https://img.shields.io/badge/Proud-Husband-6f42c1)
 
 :octocat: :: Open-source developer & contributor
 
