@@ -2,7 +2,9 @@
 
 ### Self-Hosted
 
-Here's a list of self-hosted FOSS tools I use daily. If these don't tickle your fancy, you can find many, *many more* useful tools over at [Awesome-Selfhosted](https://awesome-selfhosted.net/).
+Here's a list of self-hosted FOSS tools I use daily. 
+
+If these don't tickle your fancy, you can find many, *many more* useful tools over at [Awesome-Selfhosted](https://awesome-selfhosted.net/).
 
 #### 🖥️ Homarr
 
