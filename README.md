@@ -19,29 +19,44 @@
 
 ## About Me
 
-:octocat: :: Open-source developer & contributor
+### :octocat: Open-source focused
 
-🌐 :: #indieweb suporter
+A decade of professional experience, more than twenty years of overall experience, and the sudden rise of AI has taught me one thing: **community above all**. 
 
-🔒 :: Advocate for digital autonomy and privacy
+Open-source development & support is my way of connecting with, giving to and leaving my mark on the world.
 
-🛠️ :: Enthusiast of sustainable development
+### 🌐 Supporter of the #indieweb
 
-🐧 :: _Forever Linux User_
+The internet was once a place for everyone; _really_ for everyone. 
 
-## Systems
-<div id="Systems">
+Websites were self-hosted, personal spaces that reflected personality, time, commitment, and digital explorations - _not_ professionalisms, corporate agendas or algorithmic conformity.
+
+It can still be a place for everyone beyond the corporate orchestration of societal networks, and I'm happy to lend a hand in making it so.  
+
+### 🔒 Advocate for digital autonomy and privacy
+
+We don't need an all-in-one, cloud-backed solution to keep and maintain our data.
+
+Self-hosted applications, local-first databases, and old school digital management gives control, privacy, and autonomy back to the people - where I believe it belongs.
+
+### 🐧 _Linux user for life_
+
+All things Fedora. All things RedHat. Long live Linux!
+
+## Stuff I Use
+<div id="Uses" style="display: flex; flex-direction: row; gap: 12px;>
+  
+  <!-- Systems -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40" /> 
-</div>
-
-## Tools
-<div id="Tools">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40" />
+  
+  <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscodium/vscodium-plain.svg" title="VSCodium" alt="VSCodium" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" />
+
 </div>
