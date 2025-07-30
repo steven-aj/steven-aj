@@ -10,7 +10,7 @@ A hub. A homepage. A quick access to everything when home.
 
 Homarr is my distraction-free dashboard to all of my apps and services. It's a gateway to everything listed here, plus external sites like Codeberg, GitHub, school and more.
 
-[Get Homarr here](https://homarr.dev/)
+[Get Homarr](https://homarr.dev/)
 
 #### 🛜 CommaFeed
 
@@ -18,7 +18,7 @@ RSS is the closest I want to get to doom scrolling.
 
 CommaFeed helps me keep up with the news and blogs that I'm most interested in.
 
-[Get CommaFeed Here](https://www.commafeed.com)
+[Get CommaFeed](https://www.commafeed.com)
 
 #### 📑 Readeck
 
@@ -26,7 +26,7 @@ I have a huge collection of in-browser bookmarks for quick reference, but Readec
 
 I use this to gather, sort and highlight useful information on various topics I want to write about.
 
-[Get Readeck here](https://readeck.org/)
+[Get Readeck](https://readeck.org/)
 
 #### 🧾 Answer
 
@@ -34,7 +34,7 @@ My wife and I are always discussing things we want to buy for the house and ours
 
 Answer is a great to for us to build a generic list of things we want (questions), catalogue brands and offers (answers), discuss pros and cons of everything (comments), and choose the options we like the most (best answer).
 
-[Get Apache Answer here](https://answer.apache.org/)
+[Get Apache Answer](https://answer.apache.org/)
 
 #### 💲 Maybe
 
@@ -42,7 +42,7 @@ We like to have a biweekly, retrospective overview of all of our finances in one
 
 Maybe gives is all of that and handy budgeting tools to keep us on track with spending and expectations. I don't use the AI feature, but I guess it's there if I ever change my mind?
 
-[Get Maybe here](https://maybefinance.com/)
+[Get Maybe](https://maybefinance.com/)
 
 #### 🔗 Syncthing
 
@@ -50,7 +50,7 @@ Syncthing helps keep my work and personal documents nicely synced between all of
 
 My home server hosts a master service bridged to a mounted NAS share where everything ultimately lives.
 
-[Get Syncthing here](https://syncthing.net/)
+[Get Syncthing](https://syncthing.net/)
 
 #### 🗄️ Paperless-NGX
 
@@ -58,4 +58,4 @@ We've had a filing cabinet for years, and will probably always have one for impo
 
 For now, Paperless keeps track of the rest, storing copies in a NAS share that's synchronized with a secure cloud service. Eventually, we'll have everything digitized.
 
-[Get Paperless here](https://docs.paperless-ngx.com/)
+[Get Paperless](https://docs.paperless-ngx.com/)
