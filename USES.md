@@ -32,7 +32,7 @@ Answer is a great to for us to build a generic list of things we want (questions
 
 [Get Apache Answer here](https://answer.apache.org/)
 
-## 💲Maybe
+## 💲 Maybe
 
 We like to have a biweekly, retrospective overview of all of our finances in one place. 
 
