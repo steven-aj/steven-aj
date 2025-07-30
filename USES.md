@@ -4,7 +4,7 @@
 
 Here's a list of self-hosted FOSS tools I use daily. If these don't tickle your fancy, you can find many, *many more* useful tools over at [Awesome-Selfhosted](https://awesome-selfhosted.net/).
 
-## 🖥️ Homarr
+#### 🖥️ Homarr
 
 A hub. A homepage. A quick access to everything when home. 
 
@@ -12,7 +12,7 @@ Homarr is my distraction-free dashboard to all of my apps and services. It's a g
 
 [Get Homarr here](https://homarr.dev/)
 
-## 🛜 CommaFeed
+#### 🛜 CommaFeed
 
 RSS is the closest I want to get to doom scrolling.
 
@@ -20,7 +20,7 @@ CommaFeed helps me keep up with the news and blogs that I'm most interested in.
 
 [Get CommaFeed Here](https://www.commafeed.com)
 
-## 📑 Readeck
+#### 📑 Readeck
 
 I have a huge collection of in-browser bookmarks for quick reference, but Readeck is one of my most valuable research utilities.
 
@@ -28,7 +28,7 @@ I use this to gather, sort and highlight useful information on various topics I 
 
 [Get Readeck here](https://readeck.org/)
 
-## 🧾 Answer
+#### 🧾 Answer
 
 My wife and I are always discussing things we want to buy for the house and ourselves. 
 
@@ -36,7 +36,7 @@ Answer is a great to for us to build a generic list of things we want (questions
 
 [Get Apache Answer here](https://answer.apache.org/)
 
-## 💲 Maybe
+#### 💲 Maybe
 
 We like to have a biweekly, retrospective overview of all of our finances in one place. 
 
@@ -44,7 +44,7 @@ Maybe gives is all of that and handy budgeting tools to keep us on track with sp
 
 [Get Maybe here](https://maybefinance.com/)
 
-## 🔗 Syncthing
+#### 🔗 Syncthing
 
 Syncthing helps keep my work and personal documents nicely synced between all of my devices. 
 
@@ -52,7 +52,7 @@ My home server hosts a master service bridged to a mounted NAS share where every
 
 [Get Syncthing here](https://syncthing.net/)
 
-## 🗄️ Paperless-NGX
+#### 🗄️ Paperless-NGX
 
 We've had a filing cabinet for years, and will probably always have one for important paperwork and mail. 
 
