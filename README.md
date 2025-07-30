@@ -20,7 +20,7 @@
 
 🔒 :: Advocate for digital autonomy and privacy
 
-🛠️ :: Enthusiast of sustainable software craftsmanship 
+🛠️ :: Enthusiast of sustainable development
 
 🐧 :: _Forever Linux User_
 
