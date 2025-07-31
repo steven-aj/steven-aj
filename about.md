@@ -9,6 +9,7 @@ keywords:
   - indieweb
   - personal
 ---
+
 <div align="center">
   <img src="images/giphy.gif" title="Giphy: Coding Penguin" width="33%" height="auto" alt="Giphy: Coding Penguin" />
 </div>
