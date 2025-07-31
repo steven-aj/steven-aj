@@ -11,12 +11,12 @@ tags:
 Maybe Finance sunsets development of open-source finance tracker *Maybe* today in a lengthy goodbye to its community as it begins its pivot into B2B forecasting and scenario planning.
 
 > This is a huge project and we couldn’t have gotten this far without our early supporters and OSS contributors.
-> - [Farewell... Maybe 👋](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0)
+> -- [Farewell... Maybe 👋](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0)
 
 This decision comes in light of Maybe's struggle to maintain profitability as a B2C finance tool, Josh Pigford, founder of Maybe shared on X today. 
 
 > We’re about 6,000 paying customers short of breaking even, with only around 200 paying customers currently, most of whom joined during the beta phases when the cost was significantly lower. We likely need more than 6,000 when you consider that many resources will need to scale up to meet the needs of that many more customers.
-> - [X Post](https://x.com/Shpigford/status/1947725345244709240)
+> -- [X Post](https://x.com/Shpigford/status/1947725345244709240)
 
 It isn't the first pivot Maybe has made. 
 
@@ -25,7 +25,7 @@ Originating as a closed-source tool reportedly approaching $1 million in startup
 Pigford believes the next best transition is B2B forecasting and scenario planning, leaning heavily into the AI integrations made since the project's inception.
 
 > We’re pivoting to B2B financial forecasting & scenario planning tools. Specifically, we're focusing on natural-language, generative-UI + UX for creating reports and answering questions.
-> - [X Post](https://x.com/Shpigford/status/1947725345244709240)
+> -- [X Post](https://x.com/Shpigford/status/1947725345244709240)
 
 ### The Community's Next Move
 
