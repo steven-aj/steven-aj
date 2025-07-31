@@ -1,7 +1,6 @@
 ---
 title: Home
 author: Steven A.J.
-email: johnsonstheory@duck.com
 description: A personal mind-dump, blog and gateway to the indieweb.
 keywords:
   - indieweb
@@ -10,7 +9,6 @@ keywords:
   - personal
   - blog
 ---
-
 # Welcome, from The Void
 
 This is my digital garden - sprouted from a love for software & rooted in self-reliance and authenticity. No tracking, no spin - just raw thoughts, deep dives and occasional open-source news.
