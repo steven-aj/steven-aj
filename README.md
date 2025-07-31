@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/giphy.gif" title="Giphy: Coding Penguin" width="33%" height="auto" alt="Giphy: Coding Penguin" />
+  <img src="/_images/giphy.gif" title="Giphy: Coding Penguin" width="33%" height="auto" alt="Giphy: Coding Penguin" />
 </div>
 
 <div align="center">
