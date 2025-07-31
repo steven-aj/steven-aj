@@ -1,3 +1,14 @@
+---
+title: STILLFORGE
+author: STILLFORGE
+date: 2025-01-01
+description: A little about Stillforge and why it exists.
+keywords:
+  - about
+  - blog
+  - indieweb
+  - personal
+---
 <div align="center">
   <img src="images/giphy.gif" title="Giphy: Coding Penguin" width="33%" height="auto" alt="Giphy: Coding Penguin" />
 </div>
@@ -19,7 +30,7 @@
 
 ## About Me
 
-### :octocat: Open-source focused
+### Open-source focused
 
 A decade of professional experience, more than twenty years of overall experience, and the sudden rise of AI has taught me one thing: **community above all**. 
 
@@ -29,7 +40,7 @@ Open-source development & support is my way of connecting with, giving to and le
 
 The internet was once a place for everyone; _really_ for everyone. 
 
-Websites were self-hosted, personal spaces that reflected personality, time, commitment, and digital explorations - _not_ professionalisms, corporate agendas or algorithmic conformity.
+Websites were self-hosted, personal spaces that reflected personality, time, commitment, and digital explorations - _not_ professionalism, corporate agendas or algorithmic conformity.
 
 It can still be a place for everyone beyond the corporate orchestration of societal networks, and I'm happy to lend a hand in making it so.  
 
@@ -44,21 +55,3 @@ Self-hosted applications, local-first databases, and old school digital manageme
 All things Fedora. All things RedHat. All things Unix. 
 
 Long live Linux.
-
-## Stuff I Use
-<div id="Uses" style="display: flex; flex-direction: row; gap: 12px;">
-  
-  <!-- Systems -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40" />
-  
-  <!-- Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscodium/vscodium-original.svg" title="VSCodium" alt="VSCodium" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" />
-
-</div>
