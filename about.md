@@ -1,8 +1,8 @@
 ---
-title: STILLFORGE
-author: STILLFORGE
+title: About Me
+author: Steven A.J.
 date: 2025-01-01
-description: A little about Stillforge and why it exists.
+description: Learn more about me, the things I do and why I do them.
 keywords:
   - about
   - blog
