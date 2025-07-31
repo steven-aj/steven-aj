@@ -1,3 +1,17 @@
+---
+title: About
+author: Steven A.J.
+date: 2025-01-01
+description: Personal projects, open source news and unhinged rants.
+keywords:
+  - about
+  - blog
+  - indieweb
+  - smallweb
+  - open source
+  - personal
+---
+
 <div align="center">
   <img src="images/giphy.gif" title="Giphy: Coding Penguin" width="33%" height="auto" alt="Giphy: Coding Penguin" />
 </div>
