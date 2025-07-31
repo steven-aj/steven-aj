@@ -1,0 +1,17 @@
+name: Trigger site rebuild
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger_build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call site repo workflow
+        run: |
+          curl -X POST https://api.github.com/repos/steven-aj/steven-aj.github.io/dispatches \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.SITE_REPO_TOKEN }}" \
+            -d '{"event_type":"rebuild"}'
