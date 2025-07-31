@@ -14,4 +14,4 @@ jobs:
           curl -X POST https://api.github.com/repos/steven-aj/steven-aj.github.io/dispatches \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.SITE_REPO_TOKEN }}" \
-            -d '{"event_type":"rebuild"}'
+            -d '{"event_type":"content-published"}'
