@@ -46,7 +46,7 @@ All things Fedora. All things RedHat. All things Unix.
 Long live Linux.
 
 ## Stuff I Use
-<div id="Uses" style="display: flex; flex-direction: row; gap: 12px;>
+<div id="Uses" style="display: flex; flex-direction: row; gap: 12px;">
   
   <!-- Systems -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" /> 
