@@ -9,7 +9,7 @@ keywords:
   - personal
   - blog
 ---
-# Welcome, from The Void
+## Welcome, from The Void
 
 This is my digital garden - sprouted from a love for software & rooted in self-reliance and authenticity. No tracking, no spin, not a portfolio, and not for profit - just raw thoughts, deep dives and occasional open-source news. This is my place to think, reflect, connect, and contribute. Consume what you need, leave the rest.
 
